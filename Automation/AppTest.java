@@ -18,5 +18,6 @@ public class AppTest
         assertTrue( true );
         System.out.println("Hello world");
         System.out.println("Hi git");
+        System.out.println("Now once again changed");
     }
 }
